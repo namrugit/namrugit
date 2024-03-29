@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Namratha, @namrugit
+- 👋 Hi, I’m Namratha, @npgithub
 - 👀 I am a biomedical engineer and an artist [www.npcolorworks.com]
 - 🌱 I’m currently learning python, with a focus on building different kinds of ML models to develop technologies like: personal health companions, socially assistive robots, and more! 
 - 💞️ I’m looking to collaborate on a variety of projects, particularly those pertaining to social AI, emotion AI or in the field of affective computing 
